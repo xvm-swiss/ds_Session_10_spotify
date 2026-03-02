@@ -2,7 +2,7 @@ numpy
 streamlit
 pandas
 matplotlib
-matplotlib.pyplot
+matplotlib
 seaborn
 plotly
 nbformat
