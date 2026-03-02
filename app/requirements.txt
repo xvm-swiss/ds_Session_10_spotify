@@ -2,9 +2,9 @@ numpy
 streamlit
 pandas
 matplotlib
+matplotlib.pyplot
 seaborn
 plotly
 nbformat
 wordcloud
-warnings
 
