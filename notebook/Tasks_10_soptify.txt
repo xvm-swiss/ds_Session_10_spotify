@@ -1,0 +1,29 @@
+ds_Session_10_soptify
+
+You assignment  is to apply data cleaning on spotify tracks dataset 
+apply EDA
+and implement your interactive dashboard on streamlit
+
+Extract KPIs as :
+No. of tracks
+No. of artists
+No. of albums
+Avg song duration is minutes
+No. of genres
+
+Visualize :
+Top 10 most popular tracks
+Top 10 artists with most popular songs
+Top 7 most loud songs
+Top 7 artists with danceable overall songs
+Overall relationship between columns :
+        ex: danceability & loudness 
+        ex: valence & mode
+
+
+
+Sidebar filters :
+Use :
+* Explicit column
+* energy
+* mode
