@@ -1,1 +1,1 @@
-Live Demo: https://xvm-ch-spotify-analysis.streamlit.app/
+Live Demo: https://xvm-ch-spotify-1.streamlit.app/dashboard
